@@ -1,4 +1,4 @@
-**Hi there, I'm Narayana Moreira! 👋**
+##Hi there, I'm Narayana Moreira! 👋
 
 *I'm a Brazilian Information Systems student with a passion for coding, problem-solving, and creating user-friendly experiences. Here's a bit about me:*
 
