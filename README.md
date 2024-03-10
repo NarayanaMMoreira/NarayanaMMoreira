@@ -1,12 +1,12 @@
 **Hi there, I'm Narayana Moreira!** 👋
 
-*I'm a Brazilian Information Systems student with a passion for coding, problem-solving, and creating user-friendly experiences. Here's a bit about me:*
+*I'm a Brazilian Information Systems student with a passion for coding, problem-solving, and . Here's a bit about me:*
 
-🌱 Currently Learning: Java, algorithms, and dabbling in HTML and CSS for university projects.
+🌱 Currently Learning: Java, algorithms and Object-Oriented-Programming.
 
 💼 Current Work: Engaged in IT support for a SaaS product, ensuring smooth operations and customer satisfaction.
 
-🚀 Future Aspiration: Aim to become a mobile developer, combining technical skills with a keen interest in design and user experience.
+🚀 Future Aspiration: Charting a path to become a backend developer, mastering the intricacies of data and systems.
 
 🔧 Collaboration: Actively involved in university projects, always excited about collaborative opportunities.
 
